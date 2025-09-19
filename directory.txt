@@ -1,0 +1,36 @@
+Folder PATH listing
+Volume serial number is 76B5-761F
+C:.
+³   db.php
+³   directory.txt
+³   index.php
+³   print.php
+³   
+ÃÄÄÄadmin
+³       admin.php
+³       classes.php
+³       edit.php
+³       index.php
+³       list.php
+³       print.php
+³       view.php
+³       
+ÃÄÄÄassets
+³       admin.css
+³       
+ÃÄÄÄincludes
+³       footer.php
+³       header.php
+³       
+ÃÄÄÄRegister
+³       index.php
+³       list.php
+³       print.php
+³       registers.php
+³       
+ÀÄÄÄstudent
+        cl-add-status.php
+        cl-dashboard.php
+        cl-login.php
+        cl-task.php
+        
